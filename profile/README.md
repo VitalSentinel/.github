@@ -1,6 +1,6 @@
 # VitalSentinel
 
-**Your site breaks quietly. We make sure you hear it.**
+**Your site breaks quietly. Hear it first.**
 
 SEO and website monitoring that tells you what changed for Google and AI crawlers, and what to fix first.
 
@@ -14,24 +14,26 @@ A stray `noindex` ships with a release. A robots.txt edit blocks a whole section
 
 ### 1. Catch what changed
 
-The edit, the rule or the URL that moved, shown as a diff, not a score.
+The edit, the rule, the URL or the slowdown that moved, shown as a diff, not a score.
 
 | Module | What it does |
 |---|---|
 | [Page Monitoring](https://www.vitalsentinel.com/features/page-monitoring) | Alerts when a title, canonical, noindex or any element on a key page changes |
 | [Robots.txt Monitoring](https://www.vitalsentinel.com/features/robots-txt-monitoring) | Checks robots.txt hourly and shows the pages each change blocked |
-| [Site Health Monitoring](https://www.vitalsentinel.com/features/site-health-monitoring) | A technical SEO crawl that never stops, with the Google clicks at stake per issue |
 | [Sitemap Monitoring](https://www.vitalsentinel.com/features/sitemap-monitoring) | Every URL added to or removed from your sitemaps, checked daily |
+| [Site Health Monitoring](https://www.vitalsentinel.com/features/site-health-monitoring) | A technical SEO crawl that never stops, with the Google clicks at stake per issue |
+| [RUM Monitoring](https://www.vitalsentinel.com/features/rum-monitoring) | Core Web Vitals from every real visit, and the pages that fail |
+| [Synthetic Monitoring](https://www.vitalsentinel.com/features/synthetic-monitoring) | Scheduled Lighthouse tests on phone and desktop that catch slowdowns after a release |
 
-### 2. See what Google and AI crawlers see
+### 2. See how Google and AI crawlers reacted
 
-The index, the crawl and the field data, from Google's own sources and your server logs.
+How the index, the crawl and the field data moved, from Google's own sources and your server logs, for Googlebot and AI crawlers alike.
 
 | Module | What it does |
 |---|---|
 | [Indexing Monitoring](https://www.vitalsentinel.com/features/indexing-monitoring) | Checks daily which pages are in Google, which dropped out and why |
 | [Server Log Monitoring](https://www.vitalsentinel.com/features/server-log-monitoring) | Which search and AI crawlers hit the site, verified or fake, and what the server answered |
-| [Google Search Console](https://www.vitalsentinel.com/features/google-search-console) | Clicks and impressions, and why they moved |
+| [Google Search Console](https://www.vitalsentinel.com/features/google-search-console) | Clicks and impressions, and why they moved, with history kept up to 5 years, Free plan included |
 | [CrUX Monitoring](https://www.vitalsentinel.com/features/crux-monitoring) | Google's Chrome UX Report field data, tracked week by week |
 
 ### 3. Know what to fix first
@@ -42,8 +44,6 @@ Every alert arrives once, with its likely cause, the clicks at stake and up to t
 
 | Module | What it does |
 |---|---|
-| [RUM Monitoring](https://www.vitalsentinel.com/features/rum-monitoring) | Core Web Vitals from every real visit, and the pages that fail |
-| [Synthetic Monitoring](https://www.vitalsentinel.com/features/synthetic-monitoring) | Scheduled Lighthouse tests on phone and desktop that catch slowdowns after a release |
 | [Web Analytics](https://www.vitalsentinel.com/features/web-analytics) | Privacy-first traffic, sources, goals and revenue, cookie-free by default |
 | [Form Monitoring](https://www.vitalsentinel.com/features/form-monitoring) | Alerts when a key form stops bringing in submissions |
 | [Uptime Monitoring](https://www.vitalsentinel.com/features/uptime-monitoring) | Availability checks every 1–5 min, plus SSL and domain expiry alerts |
@@ -73,5 +73,7 @@ Free for 1 domain, no credit card, every module included. Paid plans from $39/mo
 [LinkedIn](https://www.linkedin.com/company/vitalsentinel/) · [X](https://x.com/VitalSentinel) · [Bluesky](https://bsky.app/profile/vitalsentinel.com) · [YouTube](https://www.youtube.com/@vitalsentinel)
 
 ---
+
+Built by [Martin Stepanek](https://www.vitalsentinel.com/about), enterprise technical SEO consultant.
 
 <sub>© 2026 VitalSentinel</sub>
